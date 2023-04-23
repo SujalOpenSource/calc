@@ -1,2 +1,2 @@
 # calc
-used VS code as editing tool for HTMl, CSS, JavaScript
+A simple Calculator using html,css and javascript
